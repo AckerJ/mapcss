@@ -95,7 +95,7 @@ meta {
 
 
  canvas {
-    fill-color: #000000;
+    fill-color: #FF0000;
 }
 
 /*************************/
@@ -771,7 +771,7 @@ way[highway=tertiary] {
     z-index: 4;
     width: 3;
     casing-width: 2;
-    casing-color: pink;
+    casing-color: #FEFECB;
     color: #919191;
 }
 way[highway=tertiary_link] {
