@@ -770,8 +770,8 @@ way[highway=secondary_link] {
 way[highway=tertiary] {
     z-index: 4;
     width: 3;
-    casing-width: 10;
-    casing-color: #FEFECB;
+    casing-width: 2;
+    casing-color: pink;
     color: #919191;
 }
 way[highway=tertiary_link] {
