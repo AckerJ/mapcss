@@ -12,7 +12,7 @@ Credit:.........Based on JOSM Default (mapcss) and HDM (by the Humanitarian OSM 
 *********************************************/
 
 meta {
-    icon: "https://github.com/jwestlake16/mapcss/blob/master/images/icon11.png";
+    icon: "images/icon11.png";
     description: "Streets style";
 }
 
