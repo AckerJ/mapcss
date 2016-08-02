@@ -88,7 +88,7 @@ Useful for dense city building editing.
 *********************************************/
 
 meta {
-    icon: "icons/icon11.png";
+    icon: "images/icon11.png";
     description: "Streets style";
 }
 
