@@ -20,7 +20,7 @@ meta {
 
 
  canvas {
-    fill-color: #000000;
+    fill-color: #FF0000;
 }
 
 /*************************/
